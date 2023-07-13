@@ -23,3 +23,4 @@ plugins:
 
 nav:
    - 主页: index.md
+   - 科技线 (Dumortierite):  tech/dumortierite.md
