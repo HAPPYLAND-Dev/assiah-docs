@@ -3,27 +3,22 @@ site_author: HAPPYLAND Dev Group
 
 repo_url: https://github.com/HAPPYLAND-Dev/assiah-docs
 
-theme:
-   name: custommill
+theme: 
+   name: windmill
    locale: zh_CN
    highlightjs: true
-   search_index_only: true
-   include_search_page: true
-   main_color: "#2e3440"
-   gray: "#434c5e"
-   lighter_gray: "#4c566a"
 
 markdown_extensions:
    - smarty: {}
    - toc:
-        permalink: True
+       permalink: True
    - sane_lists: {}
    - pymdownx.highlight:
-        auto_title: true
-        linenums: true
+       auto_title: true
+       linenums: true
    - pymdownx.superfences
-
-plugins:
+   
+plugins: 
    - search
 
 nav:
