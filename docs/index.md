@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# AssiahLand
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+欢迎来到 `AssiahLand` 官方文档
 
-## Commands
+如果你在这里没能解决问题
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+请加玩家群咨询: 
 
-## Project layout
+![QQ 群](assets/qq_group.jpg)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 贡献
+
+本文档采用 `CC0-1.0` 许可
+
+任何人都可以贡献内容
+
+如果你不会使用 `github`，可以加入玩家群并提交你的内容
+
+我们会在审核后将其加入此文档
+
+仓库地址: https://github.com/HAPPYLAND-Dev/assiah-docs/
