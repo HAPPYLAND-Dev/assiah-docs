@@ -1,0 +1,22 @@
+site_name: AssiahLand 官方文档
+site_author: HAPPYLAND Dev Group
+
+repo_url: https://github.com/HAPPYLAND-Dev/assiah-docs
+
+theme: 
+   name: gitbook
+   locale: zh_CN
+   highlightjs: true
+
+markdown_extensions:
+   - smarty: {}
+   - toc:
+       permalink: True
+   - sane_lists: {}
+   - pymdownx.highlight:
+       auto_title: true
+       linenums: true
+   - pymdownx.superfences
+   
+plugins: 
+   - search
