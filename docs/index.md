@@ -1,4 +1,4 @@
-# AssiahLand
+# 欢迎
 
 欢迎来到 `AssiahLand` 官方文档
 
@@ -8,7 +8,7 @@
 
 ![QQ 群](assets/qq_group.jpg)
 
-## 贡献
+# 贡献
 
 本文档采用 `CC0-1.0` 许可
 

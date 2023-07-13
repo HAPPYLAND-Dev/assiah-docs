@@ -1,4 +1,4 @@
-# 科技线 : Dumortierite
+# 前言
 
 `Dumortierite` 采用类似 `Slimefun4` 的科技玩法，但与原版 `Slimefun4` 相比有较大程度的魔改
 
@@ -6,9 +6,9 @@
 
 另外请会玩的玩家多帮帮不会玩的...
 
-## 概要
+# 概要
 
-### 合成系统
+## 合成系统
 
 与原版 `Slimefun4` 不同的一点是，`Dumortierite` 主要合成系统不采用默认的 `强化工作台`，而是使用自己编写的一套蓝图系统
 
@@ -18,7 +18,7 @@
 
 ![组装机界面](assets/asm_gui.png)
 
-### 机器和发电机
+## 机器和发电机
 
 基本所有机器都需要耗电，不采用多方块机器
 
@@ -34,7 +34,7 @@
 
 - 能源连接器: https://slimefun-wiki.guizhanss.cn/Energy-Connector
 
-### 芯片
+## 芯片
 
 ![芯片](assets/chips.png)
 
