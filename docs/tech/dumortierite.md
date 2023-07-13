@@ -28,11 +28,11 @@
 
 这部分可以参考原版 `Slimefun4` 的教程
 
-- 能源调度器: https://slimefun-wiki.guizhanss.cn/Energy-Regulator
+- [能源调度器](https://slimefun-wiki.guizhanss.cn/Energy-Regulator)
 
-- 电容: https://slimefun-wiki.guizhanss.cn/Energy-Capacitors
+- [电容](https://slimefun-wiki.guizhanss.cn/Energy-Capacitors)
 
-- 能源连接器: https://slimefun-wiki.guizhanss.cn/Energy-Connector
+- [能源连接器](https://slimefun-wiki.guizhanss.cn/Energy-Connector)
 
 ## 芯片
 
