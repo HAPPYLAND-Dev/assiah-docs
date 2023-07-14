@@ -6,7 +6,8 @@
 
 玩家需要在 `组装机` 中放入蓝图和对应的材料，耗费电力合成物品
 
-![组装机](assets/asm_ingame.png)
+<img align="left" src="../assets/asm_item.png" />
+<img align="left" src="../assets/asm_tooltips.png" />
 
 ![组装机界面](assets/asm_gui.png)
 
@@ -28,15 +29,21 @@
 
 ## 芯片
 
-![芯片](assets/chips.png)
+<img align="center" src="../assets/chip_1.png" />
+<img align="center" src="../assets/chip_2.png" />
+<img align="center" src="../assets/chip_3.png" />
+<img align="center" src="../assets/chip_4.png" />
+<img align="center" src="../assets/chip_5.png" />
+<img align="center" src="../assets/chip_6.png" />
+
 
 芯片默认是没有程序的
 
 你需要通过 **各种方法** 将程序烧录进芯片
 
-下面是一个烧录了 `组装机集成控制程序` 的芯片
+下面是一个烧录了 `组装机集成控制程序` 的芯片的详细信息
 
-![烧录了的芯片](assets/chip_burned.png)
+![烧录了的芯片](assets/chip_info.png)
 
 手持芯片，蹲下并按右键可以显示当前程序的详细信息
 
@@ -52,7 +59,7 @@
 
 ![煤发电机优化马达控制程序](assets/chip_with_coal_program_t2.png)
 
-一般来说，机器内有一个特殊的槽位用于放置芯片
+机器内有一个特殊的槽位用于放置芯片
 
 ![芯片槽](assets/chip_slot.png)
 
