@@ -5,7 +5,7 @@ repo_url: https://github.com/HAPPYLAND-Dev/assiah-docs
 
 theme: 
    name: material
-   locale: zh_CN
+   language: zh
    highlightjs: true
 
 markdown_extensions:
