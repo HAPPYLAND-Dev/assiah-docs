@@ -4,7 +4,7 @@ site_author: HAPPYLAND Dev Group
 repo_url: https://github.com/HAPPYLAND-Dev/assiah-docs
 
 theme: 
-   name: windmill
+   name: material
    locale: zh_CN
    highlightjs: true
 
@@ -23,6 +23,9 @@ plugins:
 
 nav:
    - 主页: index.md
-   - 科技线 (Dumo):  tech/dumortierite.md
-   - 机器产物表 (Dumo): tech/recipes.md
-
+   - 科技:
+      - 前言: tech/index.md
+      - 科技线: tech/dumortierite.md
+      - 机器产物表: tech/recipes.md
+   - 世界:
+      - 世界组成: world/index.md
