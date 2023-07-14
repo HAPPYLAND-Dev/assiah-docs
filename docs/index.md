@@ -8,7 +8,7 @@
 
 请加 <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GaQxYxmoT6w1YHiL6wnmoht32x3I6mS4&authKey=Hy%2B8zwiS6%2Fnh5fOCFUQjioN7gzIWfNqGFMFNfoze%2FeBlEsqUyJUD9mk3UYoVBpha&noverify=0&group_code=855452301">`HAPPYLAND Assiahland 官方群`</a> 咨询: 
 
-<img src="assets/qq_group.jpg" height=402>
+<img alt="群名片`" src="assets/qq_group.jpg">
 
 # 贡献
 
