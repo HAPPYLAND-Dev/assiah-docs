@@ -35,3 +35,7 @@ nav:
         - 机器产物表: tech/recipes.md
    - 世界:
         - 世界组成: world/index.md
+   - 经济: eco/index.md
+   - 岛屿玩法: 
+      - 前言: island/index.md
+      - 人偶: island/puppet.md
