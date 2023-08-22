@@ -42,5 +42,4 @@ nav:
           - 人偶: assiash/island/puppet.md
   - YetzirahLand:
       - 主页: yetzirah/index.md
-      - 开始: 
-          - 前言: yetzirah/starter/index.md
+      - 开始: yetzirah/starter/index.md
