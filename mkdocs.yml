@@ -1,41 +1,46 @@
-site_name: AssiahLand 官方文档
+site_name: HAPPYLAND 官方文档
 site_author: HAPPYLAND Dev Group
 
 repo_url: https://github.com/HAPPYLAND-Dev/assiah-docs
 
 theme:
-   name: material
-   language: zh
-   highlightjs: true
-   palette:
-      primary: teal
-      accent: teal
-   font:
+  name: material
+  language: zh
+  highlightjs: true
+  palette:
+    primary: teal
+    accent: teal
+  font:
     text: Noto Sans SC
     code: Noto Sans Mono
 
 markdown_extensions:
-   - smarty: {}
-   - toc:
-        permalink: True
-   - sane_lists: {}
-   - pymdownx.highlight:
-        auto_title: true
-        linenums: true
-   - pymdownx.superfences
+  - smarty: {}
+  - toc:
+      permalink: True
+  - sane_lists: {}
+  - pymdownx.highlight:
+      auto_title: true
+      linenums: true
+  - pymdownx.superfences
 
 plugins:
-   - search
+  - search
 
 nav:
-   - 主页: index.md
-   - 科技:
-        - 前言: tech/index.md
-        - 概要: tech/dumortierite.md
-        - 机器产物表: tech/recipes.md
-   - 世界:
-        - 世界组成: world/index.md
-   - 经济: eco/index.md
-   - 岛屿玩法: 
-      - 前言: island/index.md
-      - 人偶: island/puppet.md
+  - AssiashLand:
+      - 主页: assiash/index.md
+      - 科技:
+          - 前言: assiash/tech/index.md
+          - 概要: assiash/tech/dumortierite.md
+          - 机器产物表: assiash/tech/recipes.md
+      - 世界:
+          - 世界组成: assiash/world/index.md
+      - 经济: assiash/eco/index.md
+      - 岛屿玩法:
+          - 前言: assiash/island/index.md
+          - 人偶: assiash/island/puppet.md
+  - YetzirahLand:
+      - 主页: yetzirah/index.md
+      - 开始: 
+          - 前言: yetzirah/starter/index.md
