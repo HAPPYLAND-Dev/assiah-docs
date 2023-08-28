@@ -39,6 +39,8 @@ nav:
       - 经济: assiash/eco/index.md
       - 岛屿玩法:
           - 前言: assiash/island/index.md
+          - 精灵: assiash/island/allay.md
+          - 任务: assiash/island/quest.md
           - 人偶: assiash/island/puppet.md
   - YetzirahLand:
       - 主页: yetzirah/index.md
