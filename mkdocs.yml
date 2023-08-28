@@ -35,12 +35,14 @@ nav:
           - 精灵: assiash/island/allay.md
           - 任务: assiash/island/quest.md
           - 人偶: assiash/island/puppet.md
+          - 指令: assiash/island/command.md
       - 科技:
           - 前言: assiash/tech/index.md
           - 概要: assiash/tech/dumortierite.md
           - 机器产物表: assiash/tech/recipes.md
       - 世界:
           - 世界组成: assiash/world/index.md
+          - 岛屿类型: assiash/world/island.md
       - 经济: assiash/eco/index.md
   - YetzirahLand:
       - 主页: yetzirah/index.md
