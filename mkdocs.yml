@@ -30,6 +30,7 @@ plugins:
 nav:
   - AssiashLand:
       - 主页: assiash/index.md
+      - 基础: assiash/info.md
       - 岛屿玩法:
           - 前言: assiash/island/index.md
           - 精灵: assiash/island/allay.md
