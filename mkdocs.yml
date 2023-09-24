@@ -41,6 +41,7 @@ nav:
           - 前言: assiash/tech/index.md
           - 概要: assiash/tech/dumortierite.md
           - 机器产物表: assiash/tech/recipes.md
+          - 多方块机器: assiash/tech/machine.md
       - 世界:
           - 世界组成: assiash/world/index.md
           - 岛屿类型: assiash/world/island.md
