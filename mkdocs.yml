@@ -37,6 +37,7 @@ nav:
           - 任务: assiash/island/quest.md
           - 人偶: assiash/island/puppet.md
           - 指令: assiash/island/command.md
+          - 子区: assiash/island/region.md
       - 科技:
           - 前言: assiash/tech/index.md
           - 概要: assiash/tech/dumortierite.md
