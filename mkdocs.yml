@@ -5,6 +5,7 @@ repo_url: https://github.com/HAPPYLAND-Dev/assiah-docs
 
 theme:
   name: material
+  favicon: assets/favicon.png
   language: zh
   highlightjs: true
   palette:
@@ -41,12 +42,15 @@ nav:
       - 世界:
           - 世界组成: assiash/world/index.md
           - 岛屿类型: assiash/world/island.md
-      - 经济: assiash/eco/index.md
-      - 补丁更新: assiash/patches/index.md
-  - YetzirahLand:
-      - 主页: yetzirah/index.md
-      - 玩法简介: yetzirah/starter/introduction.md
-      - 新手建议: yetzirah/starter/suggestion.md
+      - 禁忌:
+          - 客户端使用: assiash/banned/client.md
+          - 处罚机制: assiash/banned/temp.md
+      # - 经济: assiash/eco/index.md
+      # - 补丁更新: assiash/patches/index.md
+  # - YetzirahLand:
+  #     - 主页: yetzirah/index.md
+  #     - 玩法简介: yetzirah/starter/introduction.md
+  #     - 新手建议: yetzirah/starter/suggestion.md
   - 听歌: simple.md
   - 胡说八道:
     - 发发牢骚: baga/fku.md
